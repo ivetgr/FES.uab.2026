@@ -1,7 +1,0 @@
-# Exercici 1
-print("Ivet Garcia");
-
-# Exercici 2
-print("Python","es","divertit", sep '-');
-
-# Exercici 3
