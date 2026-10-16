@@ -1,9 +1,8 @@
 # Exercici 1
-print("Ivet Garcia");
+print("Ivet Garcia")
 
 # Exercici 2
-print("Python","es","divertit", sep ="-");
+print("Python","es","divertit", sep ="-")
 
 # Exercici 3
-print(15+27);
-
+print(15+27)
