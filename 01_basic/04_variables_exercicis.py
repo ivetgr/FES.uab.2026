@@ -19,5 +19,4 @@ print(f"Queden {gb_restants} GB disponibles.")
 gb_consumits = 75
 gb_restants = gb_inclosos - gb_consumits
 print(f"Queden {gb_restants} Gb disponibles.")
- 
       
