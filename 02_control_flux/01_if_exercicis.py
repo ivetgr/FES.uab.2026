@@ -103,7 +103,7 @@ paquets = float(input("Introdueix el percentatge de paquets perduts: "))
 
 if latencia < 0 or 0 > paquets > 100:
     print("Latencia no acceptada.")
-elif latenica <= 30 and paquets <= 1:
+elif latencia <= 30 and paquets <= 1:
     print("Latencia excel.lent!")
 elif latencia <= 80 and paquets <= 3:
     print("Latencia bona.")

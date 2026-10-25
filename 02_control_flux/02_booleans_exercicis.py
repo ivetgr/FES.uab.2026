@@ -32,7 +32,7 @@ print(f"paraula_a es igual a 'Hola':  {paraula_a == 'Hola'}")
 # Crea una variable anomenada xarxa_disponible que sigui True només si el
 # router està encès i la connexió està activa. Mostra'n el resultat.
 
-rotuer_ences = True
+router_ences = True
 connexio_activa = False
 
 xarxa_disponible = router_ences and connexio_activa
